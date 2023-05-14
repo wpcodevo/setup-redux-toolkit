@@ -24,5 +24,5 @@ In this guide, I will show you how to set up Redux Toolkit and RTK Query with Re
     - Add the API Service to the Redux Store
 
 
-Read the entire article here: [https://codevoweb.com/setup-redux-toolkit-and-rtk-query/(opens in a new tab)](https://codevoweb.com/setup-redux-toolkit-and-rtk-query/(opens in a new tab))
+Read the entire article here: [https://codevoweb.com/setup-redux-toolkit-and-rtk-query/](https://codevoweb.com/setup-redux-toolkit-and-rtk-query/)
 
